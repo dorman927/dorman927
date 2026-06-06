@@ -1,7 +1,8 @@
 # 👋 Jordan Marte Cruz | Full Stack Developer
 
 [![Email](https://img.shields.io/badge/Email-jordanmartecruz%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:jordanmartecruz@gmail.com)
-| **LinkedIn** | www.linkedin.com/in/lic-jordan-marte-12593b148 |
+[![LinkedIn](www.linkedin.com/in/lic-jordan-marte-12593b148-green?style=flat-square&logo=whatsapp)](www.linkedin.com/in/lic-jordan-marte-12593b148 )
+
 
 
 ---
