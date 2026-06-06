@@ -1,6 +1,7 @@
 # 👋 Jordan Marte Cruz | Full Stack Developer
 
 [![Email](https://img.shields.io/badge/Email-jordanmartecruz%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:jordanmartecruz@gmail.com)
+| **LinkedIn** | www.linkedin.com/in/lic-jordan-marte-12593b148 |
 
 
 ---
@@ -136,15 +137,6 @@ Estoy abierto a oportunidades desafiantes en el campo de la tecnología.
 |-------|------------|
 | **Email** | [jordanmartecruz@gmail.com](mailto:jordanmartecruz@gmail.com) |
 | **LinkedIn** | www.linkedin.com/in/lic-jordan-marte-12593b148 |
-
----
-
-## 🤝 Referencias Profesionales
-
-Disponibles bajo solicitud:
-- Ing. Jenry F. Sanchez G. - (829) 388-7656
-- Ing. Salvador F. Ramírez - (809) 753-3701
-- Ing. Eddy R. Rosario - (829) 569-5437
 
 ---
 
