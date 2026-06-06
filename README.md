@@ -1,9 +1,6 @@
 # 👋 Jordan Marte Cruz | Full Stack Developer
 
 [![Email](https://img.shields.io/badge/Email-jordanmartecruz%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:jordanmartecruz@gmail.com)
-[![LinkedIn](www.linkedin.com/in/lic-jordan-marte-12593b148-green?style=flat-square&logo=whatsapp)](www.linkedin.com/in/lic-jordan-marte-12593b148 )
-
-
 
 ---
 
@@ -18,7 +15,7 @@ Mi objetivo es colaborar en una empresa innovadora, aprovechando mi capacidad pa
 ## 💼 Experiencia Profesional
 
 ### 👨‍💻 Analista Programador Junior
-**Bionuclear S.A.** | *Desde Enero 2023*
+**Bionuclear S.A.** | *Desde Septiembre 2022*
 
 - Desarrollo de nuevas funcionalidades en aplicaciones de gestión de laboratorios clínicos
 - Interfacing con analizadores de laboratorio para comunicación e integración de datos
