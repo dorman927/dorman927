@@ -1,8 +1,7 @@
 # 👋 Jordan Marte Cruz | Full Stack Developer
 
 [![Email](https://img.shields.io/badge/Email-jordanmartecruz%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:jordanmartecruz@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B1%20(809)%20545--1527-green?style=flat-square&logo=whatsapp)](tel:+18095451527)
-[![Location](https://img.shields.io/badge/Location-San%20Cristóbal%2C%20DO-red?style=flat-square&logo=googlemaps)](https://maps.google.com)
+
 
 ---
 
@@ -136,9 +135,7 @@ Estoy abierto a oportunidades desafiantes en el campo de la tecnología.
 | Canal | Información |
 |-------|------------|
 | **Email** | [jordanmartecruz@gmail.com](mailto:jordanmartecruz@gmail.com) |
-| **Teléfono** | +1 (809) 545-1527 |
-| **Ubicación** | San Cristóbal, República Dominicana |
-| **LinkedIn** | Disponible bajo solicitud |
+| **LinkedIn** | www.linkedin.com/in/lic-jordan-marte-12593b148 |
 
 ---
 
