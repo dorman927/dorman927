@@ -1,4 +1,4 @@
-# 👋 Jordan Marte Cruz | Full Stack Developer
+# Jordan Marte Cruz | Full Stack Developer | Administrador de Base de Datos SQL
 
 [![Email](https://img.shields.io/badge/Email-jordanmartecruz%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:jordanmartecruz@gmail.com)
 
